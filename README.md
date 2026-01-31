@@ -2,37 +2,27 @@
 
 A beautiful, modern mobile application for calculating investment returns and tracking stocks. Built with React Native and Expo, Stockimate helps you visualize potential returns on your investments with real-time data and interactive charts.
 
-Stockimate
-
 ## 📱 Preview
 
 ### Calculator Screen
 The main calculator screen allows you to search for stocks, set investment amounts, and calculate potential returns. Search for any stock, ETF, or cryptocurrency and see real-time pricing information.
 
-![Calculator Screen](./assets/images/img1.png)
+<img src="./assets/images/img1.png" alt="Calculator Screen" width="400" />
 
 ### Investment Details & Returns
 View detailed investment information including estimated value today, daily changes, and key metrics like invested amount, current price, buy price, and number of shares. The Price Target Calculator lets you see projected returns at any target price.
 
+<img src="./assets/images/img3.png" alt="Investment Details" width="400" />
+
 ### Interactive Chart with Historical Data
 Explore historical price data with an interactive chart that supports multiple timeframes (YTD, 1Y, 2Y, 5Y, 10Y, ALL). Drag on the chart to select different purchase dates and see how your investment would have performed. The chart displays high/low prices and marks your purchase date.
 
-![Interactive Chart](./assets/images/img4.png)
+<img src="./assets/images/img4.png" alt="Interactive Chart" width="400" />
 
 ### Wishlist
 Track your favorite stocks, ETFs, and cryptocurrencies in a personalized wishlist. See real-time prices, daily changes, and mini charts for each tracked asset. Tap any item to quickly calculate returns.
 
-![Wishlist](./assets/images/img2.png)
-
-Calculate future profits if you bought a specific stock today.
-
-![Future profits](./assets/images/img3.png)
-
-> **Note**: To add preview images, place your screenshot files in the `screenshots/` directory with the following names:
-> - `calculator-main.png` - Main calculator screen
-> - `investment-details.png` - Investment details with price target calculator
-> - `interactive-chart.png` - Chart view with timeframe selector
-> - `wishlist.png` - Wishlist screen
+<img src="./assets/images/img2.png" alt="Wishlist" width="400" />
 
 ## ✨ Features
 
