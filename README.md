@@ -7,30 +7,30 @@ A beautiful, modern mobile application for calculating investment returns and tr
 ### Calculator Screen
 The main calculator screen allows you to search for stocks, set investment amounts, and calculate potential returns. Search for any stock, ETF, or cryptocurrency and see real-time pricing information.
 
-<div align="center">
+<p align="center">
   <img src="./assets/images/img1.png" alt="Calculator Screen" width="400" />
-</div>
+</p>
 
 ### Investment Details & Returns
 View detailed investment information including estimated value today, daily changes, and key metrics like invested amount, current price, buy price, and number of shares. The Price Target Calculator lets you see projected returns at any target price.
 
-<div align="center">
+<p align="center">
   <img src="./assets/images/img3.png" alt="Investment Details" width="400" />
-</div>
+</p>
 
 ### Interactive Chart with Historical Data
 Explore historical price data with an interactive chart that supports multiple timeframes (YTD, 1Y, 2Y, 5Y, 10Y, ALL). Drag on the chart to select different purchase dates and see how your investment would have performed. The chart displays high/low prices and marks your purchase date.
 
-<div align="center">
+<p align="center">
   <img src="./assets/images/img4.png" alt="Interactive Chart" width="400" />
-</div>
+</p>
 
 ### Wishlist
 Track your favorite stocks, ETFs, and cryptocurrencies in a personalized wishlist. See real-time prices, daily changes, and mini charts for each tracked asset. Tap any item to quickly calculate returns.
 
-<div align="center">
+<p align="center">
   <img src="./assets/images/img2.png" alt="Wishlist" width="400" />
-</div>
+</p>
 
 ## ✨ Features
 
